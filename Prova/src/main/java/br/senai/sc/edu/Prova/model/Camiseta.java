@@ -16,6 +16,7 @@ public class Camiseta {
 	private String cor;
 	private String descricao;
 	private float custo;
+        // See about making "categoria" into either an Enum or a full on DB table.
 	private String categoria;
 	private boolean disponibilidade;
 
